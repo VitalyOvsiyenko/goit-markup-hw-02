@@ -21,10 +21,9 @@
 
 .logo{
         font-family: 'Raleway', sans-serif;
-        
         font-weight: 700;
         font-size: 26px;
-        line-height: 1, 19;
+        line-height: 1,19;
         letter-spacing: 0.03em;
         color: var(--color-accent)
 
@@ -33,19 +32,18 @@
     .logo-accent{
         font-weight: 700;
         font-size: 26px;
-        line-height: 1, 19;
+        line-height: 1,19;
         letter-spacing: 0.03em;
         color: var(--color-black)
 
     }
     .link{
-        font-family: 'Roboto';
-     
         font-weight: 500;
         font-size: 14px;
-        line-height: 16px;
+        line-height: 1,15;
         letter-spacing: 0.02em;
         color: var(--color-black)
+        
             
     }
 
@@ -53,7 +51,7 @@
         
         font-weight: 500;
         font-size: 14px;
-        line-height: 16px;
+        line-height: 1,15;
         letter-spacing: 0.02em;
         color: var(--color-black)
 
@@ -61,8 +59,8 @@
 .contacts-mail {
         font-weight: 500;
         font-size: 14px;
-        line-height: 16px;
-        etter-spacing: 0.02em;
+        line-height: 1,15;
+        letter-spacing: 0.02em;
         color: var(--color-accent);
 }
 
@@ -71,20 +69,18 @@
 }
 
 .hero-title{
-        font-family: 'Roboto';
         font-weight: 900;
         font-size: 44px;
-        line-height: 60px;
+        line-height: 1,35;
         text-align: center;
         letter-spacing: 0.06em;
         text-transform: uppercase;
         color: var(--color-white);
 }
 .hero-btn{
-        font-family: 'Roboto';
         font-weight: 700;
         font-size: 16px;
-        line-height: 30px;
+        line-height: 1,9;
         display: flex;
         align-items: center;
         text-align: center;
@@ -103,53 +99,47 @@
 }
 
 .text-title {
-    font-family: 'Roboto';
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1,15;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--color-black);
 }
 
 .text-page {
-    font-family: 'Roboto';
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1,7;
     letter-spacing: 0.03em;
     color: var(--color-primery-text);
 }
 .title-job{
-    font-family: 'Roboto';
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1,15;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--color-black)
 }
 .title-team {
-    font-family: 'Roboto';
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1,15;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--color-black)
 }
 .title-name {
-        font-family: 'Roboto';
         font-weight: 500;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 1,2;
         text-align: center;
         letter-spacing: 0.03em;
         color: var(--color-black);
 }
 .team-descr {
-        font-family: 'Roboto';
         font-size: 16px;
-        line-height: 19px;
+        line-height: 1,2;
         text-align: center;
         letter-spacing: 0.03em;
         color: var(--color-primery-text);
@@ -161,39 +151,45 @@
    background-color: var(--color-background-dark);
 }
 .footer-adress {
-        font-family: 'Roboto';
         font-size: 14px;
-        line-height: 24px;
+        line-height: 1,7;
         letter-spacing: 0.03em;
         color: var(--color-white);
 
 }
 .footer-mail {
-    font-family: 'Roboto';
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1,7;
     letter-spacing: 0.03em;
     color: var(--color-secondary-text)
 }
 .footer-tel {
-    font-family: 'Roboto';
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1,7;
     letter-spacing: 0.03em;
     color: var(--color-secondary-text)
 }
 
-.portfolio-link {
-        font-family: 'Roboto';
-        
+
+.projects {
+  
         font-weight: 500;
         font-size: 16px;
-        line-height: 26px;
-        text-align: center;
+        line-height: 1,6;
         letter-spacing: 0.03em;
         color: var(--color-black);
-
 }
+
 .portfolio-title {
-    
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 2;
+        letter-spacing: 0.06em;
+        color: var(--color-black)
+}
+.portfolio-par {
+        font-size: 16px;
+        line-height: 1,9; 
+        letter-spacing: 0.03em;
+        color: var(--color-primery-text);
 }
