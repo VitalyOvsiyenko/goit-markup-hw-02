@@ -201,6 +201,7 @@ color: var(--color-accent);
 
 .footer-adress {
         line-height: 1.7;
+        font-style: normal;
         text-decoration: none;
         color: var(--color-white);
 
@@ -214,12 +215,14 @@ color: var(--color-accent);
 .footer-mail {
     line-height: 1.7;
     font-style: normal;
+    text-decoration: none;
     color: var(--color-secondary-text)
 }
 
 .footer-tel {
     line-height: 1.7;
     font-style: normal;
+    text-decoration: none;
     color: var(--color-secondary-text)
 }
 
